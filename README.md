@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/dotnet-execution-timer/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-execution-timer/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.ExecutionTimer.svg)](https://www.nuget.org/packages/Philiprehberger.ExecutionTimer)
 [![License](https://img.shields.io/github/license/philiprehberger/dotnet-execution-timer)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Measure execution time of code blocks with structured results, nested scopes, and ILogger integration.
 
@@ -120,4 +121,4 @@ dotnet build src/Philiprehberger.ExecutionTimer.csproj --configuration Release
 
 ## License
 
-MIT
+[MIT](LICENSE)
