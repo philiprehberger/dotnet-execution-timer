@@ -2,8 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/dotnet-execution-timer/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-execution-timer/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.ExecutionTimer.svg)](https://www.nuget.org/packages/Philiprehberger.ExecutionTimer)
-[![License](https://img.shields.io/github/license/philiprehberger/dotnet-execution-timer)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/dotnet-execution-timer)](https://github.com/philiprehberger/dotnet-execution-timer/commits/main)
 
 Measure execution time of code blocks with structured results, nested scopes, and ILogger integration.
 
@@ -118,6 +117,24 @@ Console.WriteLine($"{result.Label}: {result.ElapsedMilliseconds}ms");
 ```bash
 dotnet build src/Philiprehberger.ExecutionTimer.csproj --configuration Release
 ```
+
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/dotnet-execution-timer)
+
+🐛 [Report issues](https://github.com/philiprehberger/dotnet-execution-timer/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/dotnet-execution-timer/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
 
 ## License
 
